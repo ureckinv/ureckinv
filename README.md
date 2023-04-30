@@ -1,6 +1,6 @@
 ### Hi there 👋, Ureckinv
 #### im making random stuff in github
-![im making random stuff in github](https://raw.githubusercontent.com/D3Ext/D3Ext/main/assets/demo.gif)
+![im making random stuff in github]()
 
 i make random stuff
 
