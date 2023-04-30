@@ -1,6 +1,6 @@
 ### Hi there 👋, Ureckinv
 #### im making random stuff in github
-![im making random stuff in github](https://twitter.com/ureckinv/header_photo)
+![im making random stuff in github](https://raw.githubusercontent.com/D3Ext/D3Ext/main/assets/demo.gif)
 
 i make random stuff
 
