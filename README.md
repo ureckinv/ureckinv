@@ -1,6 +1,6 @@
 ### Hi there 👋, Ureckinv
 #### im making random stuff in github
-![im making random stuff in github]()
+![im making random stuff in github](file:///C:/Users/INTEL/Downloads/github-header-image.png)
 
 i make random stuff
 
